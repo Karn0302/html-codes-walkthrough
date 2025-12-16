@@ -1,0 +1,3 @@
+2)create a table with headings,captions and a few
+rows. one of the heading should take atleast 3 columns
+
